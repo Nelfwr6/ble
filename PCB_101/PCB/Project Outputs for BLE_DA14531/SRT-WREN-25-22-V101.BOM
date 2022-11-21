@@ -1,0 +1,18 @@
+Bill of Material for 
+On 9/2/2022 at 4:21:53 PM
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 100E                0603_R           3    R1, R5, R6                   Resistor             
+ 10K                 0603_R           5    R2, R3, R4, R7, R8           Resistor             
+ 1N4148W-TP          SOD123           1    D1                           Diode Standard 100V 150mA Surface Mount SOD-123 
+ 1uF                 0603_C           3    C2, C3, C4                   Capacitor            
+ 4pin 2.54           4pin_2.54mm      1    P1                                                
+ BC847               BC846            1    Q1                                                
+ DA14531             DA14531          1    U1                                                
+ MHDR1X2             2PIN             3    P4, P6, P7                   Header, 2-Pin        
+ MHDR1X3             3pin             2    P2, P3                       Header, 3-Pin        
+ MOTOR OUT           2PIN             1    P5                           Header, 2-Pin        
+ Q2                  SOT_523_P_MOS    1    Q2                                                
+ XC6220B331PR-G      CONV_AL8861Y-13    1    U2                                                
+ ZXBM5210            SOIC127P600X180-8N    1    U3                                                

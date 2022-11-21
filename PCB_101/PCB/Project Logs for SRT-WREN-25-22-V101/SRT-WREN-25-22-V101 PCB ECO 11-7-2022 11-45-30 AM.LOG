@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=D1 Old Footprint=SOD123 New Footprint=SOD323
+Change Component Footprint: Designator=D2 Old Footprint=SOD123 New Footprint=SOD323
+Added Pin To Net: NetName=NetCON2_3 Pin=D1-A
+Added Pin To Net: NetName=+VBAT Pin=D1-C
+Added Pin To Net: NetName=GND Pin=D2-A
+Added Pin To Net: NetName=+VBAT Pin=D2-C

@@ -1,0 +1,182 @@
+Removed Pin From Net: NetName=+VBAT Pin=D1-1
+Removed Pin From Net: NetName=GND Pin=D1-2
+Removed Pin From Net: NetName=3V3 Pin=P1-1
+Removed Pin From Net: NetName=SWCLK Pin=P1-2
+Removed Pin From Net: NetName=SWDIO Pin=P1-3
+Removed Pin From Net: NetName=GND Pin=P1-4
+Removed Pin From Net: NetName=+VBAT Pin=P2-1
+Removed Pin From Net: NetName=GND Pin=P2-2
+Removed Pin From Net: NetName=+VBAT Pin=P3-1
+Removed Pin From Net: NetName=GND Pin=P3-2
+Removed Pin From Net: NetName=FB2 Pin=P4-1
+Removed Pin From Net: NetName=GND Pin=P4-2
+Removed Pin From Net: NetName=FB1 Pin=P6-1
+Removed Pin From Net: NetName=GND Pin=P6-2
+Removed Pin From Net: NetName=FB1 Pin=P7-1
+Removed Pin From Net: NetName=GND Pin=P7-2
+Removed Member From Class: ClassName=Sheet1 Member=P1
+Removed Member From Class: ClassName=Sheet1 Member=P2
+Removed Member From Class: ClassName=Sheet1 Member=P3
+Removed Member From Class: ClassName=Sheet1 Member=P4
+Removed Member From Class: ClassName=Sheet1 Member=P5
+Removed Member From Class: ClassName=Sheet1 Member=P6
+Removed Member From Class: ClassName=Sheet1 Member=P7
+Change Component Footprint: Designator=D1 Old Footprint=SOD123 New Footprint=SOD323
+Change Component Comment : Designator=D1 Old Comment=1N4148W-TP New Comment=1N4148WS
+Change Component Comment : Designator=C2 Old Comment=1uF New Comment=10uF
+Change Component Comment : Designator=C3 Old Comment=1uF New Comment=10uF
+Change Component Comment : Designator=C4 Old Comment=1uF New Comment=10uF
+Change Component Comment : Designator=R3 Old Comment=10K New Comment=10K(DNM)
+Change Component Comment : Designator=R1 Old Comment=100E New Comment=10K
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "BC846"; UniqueID = "\UOUEJLNW" ("\UOUEJLNW")
+Change component parameters (AddParameter): Name = "D"; Value = "Bipolar Transistors - BJT BC847/SOT23/TO-236AB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "Nexperia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P"; Value = "SOT-23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = "BC847,215"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "URL"; Value = "https://www.mouser.in/ProductDetail/Nexperia/BC847215?qs=me8TqzrmIYWROhdFmDauyQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2" ("Q2"); Footprint = "SOT_523_P_MOS"; UniqueID = "\JKHTPAVA" ("\JKHTPAVA")
+Change component parameters (AddParameter): Name = "D"; Value = "MOSFET 20V P-Ch Enh FET PD 0.24W MIN RDSon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P"; Value = "SOT-523-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = "DMP21D0UT-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "URL"; Value = "https://www.mouser.in/ProductDetail/Diodes-Incorporated/DMP21D0UT-7?qs=F5djdNSOT4bGXq%252B9HtekMQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "0603_R"; UniqueID = "\PWWNCOND" ("\PWWNCOND")
+Change component parameters (AddParameter): Name = "D"; Value = "100R Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "0603_R"; UniqueID = "\CTYTCPYE" ("\CTYTCPYE")
+Change component parameters (AddParameter): Name = "D"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "0603_R"; UniqueID = "\DJSQIEIU" ("\DJSQIEIU")
+Change component parameters (AddParameter): Name = "D"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "0603_R"; UniqueID = "\SGJCOGQK" ("\SGJCOGQK")
+Change component parameters (AddParameter): Name = "D"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "0603_R"; UniqueID = "\UUBNROPF" ("\UUBNROPF")
+Change component parameters (AddParameter): Name = "D"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "0603_R"; UniqueID = "\HINIUCND" ("\HINIUCND")
+Change component parameters (AddParameter): Name = "D"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "0603_R"; UniqueID = "\MBJQEAMA" ("\MBJQEAMA")
+Change component parameters (AddParameter): Name = "D"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "DA14531"; UniqueID = "\KCIKHKOA" ("\KCIKHKOA")
+Change component parameters (AddParameter): Name = "D"; Value = "DA14531MOD-00F01002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "Dialog Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P"; Value = "SMD-16 Dialog Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = "DA14531MOD-00F0100C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "URL"; Value = "https://www.digikey.in/en/products/detail/dialog-semiconductor-gmbh/DA14531MOD-00F01002/11685947?s=N4IgTCBcDaICIEECMAWArAZiQWQPJwFoAGIgMSKRIgF0BfIA"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "0603_C"; UniqueID = "\VQBMYVQE" ("\VQBMYVQE")
+Change component parameters (AddParameter): Name = "D"; Value = "Multilayer Ceramic Capacitors MLCC - SMD/SMT 100V 100pF X7R 0805 5% AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = "C0805C101J1RACAUTO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "URL"; Value = "https://www.mouser.in/ProductDetail/KEMET/C0805C101J1RACAUTO?qs=B6kkDfuK7%2FBvhOkfk6gEhA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "V"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "0603_C"; UniqueID = "\QUNDYPTO" ("\QUNDYPTO")
+Change component parameters (AddParameter): Name = "D"; Value = "Multilayer Ceramic Capacitors MLCC - SMD/SMT 100V 100pF X7R 0805 5% AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = "C0805C101J1RACAUTO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "URL"; Value = "https://www.mouser.in/ProductDetail/KEMET/C0805C101J1RACAUTO?qs=B6kkDfuK7%2FBvhOkfk6gEhA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "V"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "0603_C"; UniqueID = "\VPWUKHCJ" ("\VPWUKHCJ")
+Change component parameters (AddParameter): Name = "D"; Value = "Multilayer Ceramic Capacitors MLCC - SMD/SMT 100V 100pF X7R 0805 5% AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = "C0805C101J1RACAUTO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "URL"; Value = "https://www.mouser.in/ProductDetail/KEMET/C0805C101J1RACAUTO?qs=B6kkDfuK7%2FBvhOkfk6gEhA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "V"; Value = "100pf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2" ("U2"); Footprint = "CONV_AL8861Y-13"; UniqueID = "\RITNWRJJ" ("\RITNWRJJ")
+Change component parameters (AddParameter): Name = "D"; Value = "IC REG LINEAR 3.3V 1A SOT89-5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "Torex Semiconductor Ltd"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P"; Value = "SOT-89-5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = "XC6220B331PR-G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "URL"; Value = "https://www.digikey.in/en/products/detail/torex-semiconductor-ltd/XC6220B331PR-G/2138172"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "V"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1" ("D1"); Footprint = "SOD123"; UniqueID = "\UZIIQUEA" ("\UZIIQUEA")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Micro Commercial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "1N4148W-TP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOD-123 Microsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1N4148W-TP/Micro%20Commercial/view-part/232376/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "0603_R"; UniqueID = "\IGJFGCXE" ("\IGJFGCXE")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=C1(0603_C)
+Add component (AddParameter): Name = "D"; Value = "Multilayer Ceramic Capacitors MLCC - SMD/SMT 100V 100pF X7R 0805 5% AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "C0805C101J1RACAUTO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.mouser.in/ProductDetail/KEMET/C0805C101J1RACAUTO?qs=B6kkDfuK7%2FBvhOkfk6gEhA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "V"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=CON1(6PIN 2.54)
+Added Component: Designator=CON2(8Pin 1.25)
+Added Component: Designator=D2(SOD323)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Micro Commercial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1N4148W-TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123 Microsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1N4148W-TP/Micro%20Commercial/view-part/232376/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=+VBAT Pin=C1-2
+Added Pin To Net: NetName=3V3 Pin=CON1-1
+Added Pin To Net: NetName=SWCLK Pin=CON1-2
+Added Pin To Net: NetName=SWCLK Pin=CON1-2
+Added Pin To Net: NetName=SWDIO Pin=CON1-3
+Added Pin To Net: NetName=SWDIO Pin=CON1-3
+Added Pin To Net: NetName=GND Pin=CON1-4
+Added Pin To Net: NetName=GND Pin=CON2-4
+Added Pin To Net: NetName=FB1 Pin=CON2-5
+Added Pin To Net: NetName=GND Pin=CON2-6
+Added Pin To Net: NetName=FB2 Pin=CON2-7
+Added Pin To Net: NetName=GND Pin=CON2-8
+Added Pin To Net: NetName=+VBAT Pin=D1-C
+Added Pin To Net: NetName=GND Pin=D2-A
+Added Pin To Net: NetName=+VBAT Pin=D2-C
+Change Net Name : Old Net Name=Net1_2 New Net Name=NetQ1_1
+Added Pin To Net: NetName=M1 Pin=CON2-1
+Added Pin To Net: NetName=M1 Pin=U3-1
+Added Net: Name=M1
+Added Pin To Net: NetName=M2 Pin=CON2-2
+Added Pin To Net: NetName=M2 Pin=U3-7
+Added Net: Name=M2
+Added Pin To Net: NetName=NetCON2_3 Pin=CON2-3
+Added Pin To Net: NetName=NetCON2_3 Pin=D1-A
+Added Net: Name=NetCON2_3
+Added Member To Class: ClassName=Sheet1 Member=Component C1 10uF
+Added Member To Class: ClassName=Sheet1 Member=Component CON1 6pin 2.54
+Added Member To Class: ClassName=Sheet1 Member=Component CON2 8pin 1.25
+Added Member To Class: ClassName=Sheet1 Member=Component D2 1N4148WS
+Added Member To Class: ClassName=Sheet1 Member=Component R3 10K(DNM)
